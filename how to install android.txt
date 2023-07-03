@@ -1,0 +1,12 @@
+pkg install python
+pkg install git
+Clone o repositório onde o código está armazenado usando o comando:
+bash
+Copy code
+git clone [URL_DO_REPOSITÓRIO]
+Acesse o diretório do código usando o comando cd.
+
+Execute o código Python com o seguinte comando:
+
+Copy code
+python nome_do_arquivo.py
